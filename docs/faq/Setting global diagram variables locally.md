@@ -1,0 +1,1 @@
+# Setting global diagram variables locally
